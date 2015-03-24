@@ -4,6 +4,6 @@ and will be able to test if it is "completable",
 and will be able to twist the cube.
 
 =================================================================================
-v0
+## v0
 
 build the model of the rubik cube. 
